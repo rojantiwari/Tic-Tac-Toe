@@ -35,6 +35,7 @@ body{
     border: none;
     box-shadow: -8px -8px 15px rgba(4, 132, 167, 0.2);
    font-size: 8vmin;color: rgb(84, 2, 2);
+   background-color: #f1cc98;
     
 }
 #reset-btn{
@@ -44,3 +45,30 @@ body{
     color: #F8F0E5;
     border-radius: 5px;
 }
+#new-btn{
+    padding: 5px;
+    font-size: 1.5rem;
+    background-color: #4d4e4f;
+    color: #F8F0E5;
+    border-radius: 5px;margin-bottom: 15px;
+}
+h2{
+    color: #F8F0E5;
+    margin-bottom: 10px;
+}
+/* #msg {
+    color: #ffffc7;
+    font-size: 5vmin;
+  }
+.msg-container {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+  } */
+
+.hide {
+    display: none;
+  }
